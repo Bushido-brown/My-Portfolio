@@ -48,6 +48,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
+  line-height: 52px;
   display: flex;
   align-items: center;
   color: #172b4d;
@@ -66,6 +67,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
+  line-height: 24px;
   color: #344563;
   flex: none;
   order: 1;
@@ -78,6 +80,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
+  line-height: 24px;
   color: #7f8cff;
   flex: none;
   order: 0;
@@ -86,7 +89,10 @@ body {
 }
 
 .socials {
-  display: flex;
+  width: 170.17px;
+  height: 20px;
+  left: 24px;
+  top: 470px;
   flex: none;
   order: 3;
   flex-grow: 0;
