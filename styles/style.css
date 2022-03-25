@@ -131,7 +131,7 @@
   font-size: 32px;
   line-height: 44px;
   color: #172b4d;
-  margin: 12px 0px;
+  margin: 12px 0;
 }
 
 .grid-container {
@@ -242,6 +242,7 @@
   flex-grow: 0;
   margin: 12px 0;
 }
+
 .section2 li {
   margin-right: 8px;
   align-items: center;
@@ -277,7 +278,6 @@
   font-weight: 500;
   font-size: 15px;
   line-height: 24px;
-  align-items: center;
   text-align: center;
   letter-spacing: 0.03em;
   color: #396df2;
