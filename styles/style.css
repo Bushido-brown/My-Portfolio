@@ -12,7 +12,7 @@
   height: 400px;
   left: 0;
   top: 0;
-  background: #ffffff;
+  background: #fff;
   background-image: url("/My-Portfolio/img/header-shapes-mobile.png");
 }
 
@@ -20,7 +20,7 @@
   display: flex;
   justify-content: space-between;
   width: 365px;
-  background: #ffffff;
+  background: #fff;
   height: 10px;
 }
 
@@ -281,7 +281,7 @@
   text-align: center;
   letter-spacing: 0.03em;
   color: #396df2;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 .div1 {
@@ -289,7 +289,7 @@
   width: 327px;
   left: calc(50% - 327px / 2);
   top: 114px;
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #dfe1e6;
   box-sizing: border-box;
   border-radius: 16px;
@@ -302,7 +302,7 @@
   left: 12px;
   top: 12px;
   color: #396df2;
-  background-color: #ffffff;
+  background-color: #fff;
   border: 1px solid #6070ff;
   box-sizing: border-box;
   border-radius: 8px;
@@ -402,7 +402,7 @@
   line-height: 24px;
   display: flex;
   align-items: center;
-  color: #000000;
+  color: #000;
 }
 
 .option2 {
@@ -417,7 +417,7 @@
   line-height: 24px;
   display: flex;
   align-items: center;
-  color: #000000;
+  color: #000;
 }
 
 .option3 {
@@ -432,7 +432,7 @@
   line-height: 24px;
   display: flex;
   align-items: center;
-  color: #000000;
+  color: #000;
 }
 
 .aaa {
@@ -458,6 +458,6 @@
 }
 
 .container1 {
-  background: #ffffff;
+  background: #fff;
   margin: 100px 0;
 }
