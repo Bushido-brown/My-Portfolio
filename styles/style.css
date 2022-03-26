@@ -149,6 +149,7 @@ header li {
 
   color: #344563;
 }
+
 .content li {
   color: #7a869a;
   font-family: "Poppins";
@@ -157,7 +158,6 @@ header li {
   font-size: 13px;
   line-height: 16px;
 }
-
 .ocontent li {
   font-family: "Poppins";
   font-style: normal;
@@ -177,7 +177,6 @@ header li {
   padding: 6px 12px;
   align-items: center;
 }
-
 .grid-item p {
   font-family: "Poppins";
   font-style: normal;
@@ -186,7 +185,12 @@ header li {
   line-height: 24px;
   margin: 12px 16px;
 }
-
+.ttt {
+  list-style-type: none;
+}
+ul .ttt {
+  color: #000;
+}
 button {
   width: 124px;
   height: 48px;
@@ -199,6 +203,13 @@ button {
   margin-left: 16px;
 }
 
+button:hover {
+  background-color: #6070ff;
+}
+
+button:active {
+  background-color: #2230d2;
+}
 .show-case {
   background-image: url("../img/Snapshoot-Portfolio.png");
 }
@@ -271,30 +282,28 @@ h2 {
   align-items: center;
   padding-left: 1.5rem;
 }
+
 .yyy li {
+  width: 327px;
   display: flex;
-  width: 275px;
   justify-content: space-between;
+  margin: 24px 0;
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
   font-size: 20px;
   line-height: 24px;
-  height: 24px;
-  margin: 12px 0;
 }
-ul.hhh {
-  padding-left: 0;
-}
+
 .hhh li {
-  display: flex;
-  justify-content: flex-start;
   width: 303px;
   height: 66.72px;
+  left: 12px;
+  top: 12px;
   background: #f7f7f9;
   border-radius: 8px;
-  flex-grow: 0;
   margin: 12px 0px;
+  display: flex;
   align-items: center;
   font-family: "Poppins";
   font-style: normal;
@@ -302,18 +311,12 @@ ul.hhh {
   font-size: 15px;
   line-height: 20px;
 }
-.hhh li img {
+.hhh li * {
+  margin-top: 10px;
   margin-right: 10px;
 }
-.x {
-  width: 327px;
-  height: 1px;
-  left: 0px;
-  right: 0px;
-  bottom: 0px;
-  margin: 12px 0;
+.hg li {
+  border-bottom: #dfe1e6 1px solid;
 
   /* Neutrals/N40 */
-
-  background: #dfe1e6;
 }
