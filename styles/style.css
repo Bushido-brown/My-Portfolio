@@ -109,7 +109,6 @@ header li {
 .grid-item {
   font-family: "Poppins", sans-serif;
   font-style: normal;
-  font-style: normal;
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
@@ -138,7 +137,6 @@ header li {
   width: 236px;
   padding-left: 0;
   font-family: "Poppins", sans-serif;
-  font-style: normal;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -206,6 +204,7 @@ button:hover {
 button:active {
   background-color: #2230d2;
 }
+
 .show-case {
   background-image: url("../img/Snapshoot-Portfolio.png");
 }
@@ -234,8 +233,8 @@ h2 {
   position: static;
   width: 327px;
   height: 101px;
-  left: 0px;
-  top: 0px;
+  left: 0;
+  top: 0;
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -288,7 +287,7 @@ h2 {
   top: 12px;
   background: #f7f7f9;
   border-radius: 8px;
-  margin: 12px 0px;
+  margin: 12px 0;
   display: flex;
   align-items: center;
   font-family: "Poppins", sans-serif;
