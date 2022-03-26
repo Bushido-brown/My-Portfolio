@@ -2,6 +2,7 @@
   background-color: #e5e5e5;
   width: 389px;
 }
+
 nav {
   width: 20.188rem;
   display: flex;
@@ -32,15 +33,17 @@ h1 {
   height: 9.375rem;
   width: 15rem;
   margin: 0.75rem 1.5rem;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   line-height: 52px;
 }
+
 header p {
   width: 20.438rem;
   margin: 0 1.5rem;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -50,9 +53,11 @@ header p {
 
   color: #344563;
 }
+
 h5 {
   margin: 0.75rem 1.5rem;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
   font-style: normal;
   font-weight: 500;
   font-size: 1rem;
@@ -61,9 +66,11 @@ h5 {
   width: 7.313rem;
   height: 1.5rem;
 }
+
 ul {
   list-style-type: none;
 }
+
 header ul {
   width: 9.75rem;
   justify-content: space-between;
@@ -80,6 +87,7 @@ header li {
   grid-template-columns: auto;
   width: 375px;
 }
+
 .content {
   margin-top: 248px;
   margin-right: 16px;
@@ -87,10 +95,12 @@ header li {
   margin-bottom: 12px;
   height: 80px;
 }
+
 .content h4 {
   width: 295px;
   height: 36px;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -102,8 +112,10 @@ header li {
   color: #172b4d;
   margin: 12px 0;
 }
+
 .grid-item {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -128,17 +140,20 @@ header li {
   width: 327px;
   height: 552px;
 }
+
 .grid-item ul {
   width: 203px;
   height: 24px;
   padding-left: 0;
 }
+
 .content ul {
   list-style-type: disc;
   justify-content: space-between;
   width: 236px;
   padding-left: 0;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -152,14 +167,17 @@ header li {
 
 .content li {
   color: #7a869a;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
 }
+
 .ocontent li {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
@@ -177,20 +195,25 @@ header li {
   padding: 6px 12px;
   align-items: center;
 }
+
 .grid-item p {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
   margin: 12px 16px;
 }
+
 .ttt {
   list-style-type: none;
 }
+
 ul .ttt {
   color: #000;
 }
+
 button {
   width: 124px;
   height: 48px;
@@ -229,10 +252,11 @@ button:active {
 #about-me {
   flex-direction: column;
   width: 375px;
-  background: #ffffff;
+  background: #fff;
   display: flex;
   border-top-right-radius: 80px;
 }
+
 h2 {
   position: static;
   width: 327px;
@@ -242,7 +266,8 @@ h2 {
 
   /* Header / 2 */
 
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
   font-style: normal;
   font-weight: 700;
   font-size: 50px;
@@ -265,7 +290,8 @@ h2 {
 }
 
 #about-me p {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -288,7 +314,8 @@ h2 {
   display: flex;
   justify-content: space-between;
   margin: 24px 0;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
   font-style: normal;
   font-weight: 600;
   font-size: 20px;
@@ -305,16 +332,19 @@ h2 {
   margin: 12px 0px;
   display: flex;
   align-items: center;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
   line-height: 20px;
 }
+
 .hhh li * {
   margin-top: 10px;
   margin-right: 10px;
 }
+
 .hg li {
   border-bottom: #dfe1e6 1px solid;
 
