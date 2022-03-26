@@ -44,7 +44,6 @@ header p {
   margin: 0 1.5rem;
   font-family: "Poppins", sans-serif;
   font-style: normal;
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -57,7 +56,6 @@ header p {
 h5 {
   margin: 0.75rem 1.5rem;
   font-family: "Poppins", sans-serif;
-  font-style: normal;
   font-style: normal;
   font-weight: 500;
   font-size: 1rem;
@@ -101,14 +99,9 @@ header li {
   height: 36px;
   font-family: "Poppins", sans-serif;
   font-style: normal;
-  font-style: normal;
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
-  /* or 138% */
-
-  /* Neutrals/N800 */
-
   color: #172b4d;
   margin: 12px 0;
 }
@@ -121,18 +114,10 @@ header li {
   font-size: 15px;
   line-height: 24px;
   background-color: #fff;
-  /* or 160% */
-
-  /* Neutrals/N600 */
-
   color: #344563;
-
-  /* Inside auto layout */
-
   background-repeat: no-repeat;
   background-position: 16px 16px;
   border-radius: 16px;
-
   flex: none;
   order: 1;
   flex-grow: 0;
@@ -158,17 +143,12 @@ header li {
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
-  /* identical to box height, or 123% */
-
-  /* Neutrals/N600 */
-
   color: #344563;
 }
 
 .content li {
   color: #7a869a;
   font-family: "Poppins", sans-serif;
-  font-style: normal;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -178,16 +158,10 @@ header li {
 .ocontent li {
   font-family: "Poppins", sans-serif;
   font-style: normal;
-  font-style: normal;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
-  /* identical to box height, or 133% */
-
   letter-spacing: 0.03em;
-
-  /* Primary/B400 */
-
   margin-left: 16px;
   background-color: #ebebff;
   color: #6070ff;
@@ -198,7 +172,6 @@ header li {
 
 .grid-item p {
   font-family: "Poppins", sans-serif;
-  font-style: normal;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -263,26 +236,14 @@ h2 {
   height: 101px;
   left: 0px;
   top: 0px;
-
-  /* Header / 2 */
-
   font-family: "Poppins", sans-serif;
-  font-style: normal;
   font-style: normal;
   font-weight: 700;
   font-size: 50px;
   line-height: 52px;
-  /* or 130% */
-
   display: flex;
   align-items: center;
-
-  /* Neutrals/N800 */
-
   color: #172b4d;
-
-  /* Inside auto layout */
-
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -291,7 +252,6 @@ h2 {
 
 #about-me p {
   font-family: "Poppins", sans-serif;
-  font-style: normal;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -316,7 +276,6 @@ h2 {
   margin: 24px 0;
   font-family: "Poppins", sans-serif;
   font-style: normal;
-  font-style: normal;
   font-weight: 600;
   font-size: 20px;
   line-height: 24px;
@@ -334,7 +293,6 @@ h2 {
   align-items: center;
   font-family: "Poppins", sans-serif;
   font-style: normal;
-  font-style: normal;
   font-weight: 500;
   font-size: 15px;
   line-height: 20px;
@@ -347,6 +305,4 @@ h2 {
 
 .hg li {
   border-bottom: #dfe1e6 1px solid;
-
-  /* Neutrals/N40 */
 }
