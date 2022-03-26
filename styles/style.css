@@ -157,6 +157,7 @@ header li {
   font-size: 13px;
   line-height: 16px;
 }
+
 .ocontent li {
   font-family: "Poppins";
   font-style: normal;
@@ -176,6 +177,7 @@ header li {
   padding: 6px 12px;
   align-items: center;
 }
+
 .grid-item p {
   font-family: "Poppins";
   font-style: normal;
