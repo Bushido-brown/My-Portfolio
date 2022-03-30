@@ -312,14 +312,14 @@ h2 {
   border-bottom: #dfe1e6 1px solid;
 }
 
-.footer {
+.leg {
   background-color: #6070ff;
   background-image: url(/img/contact-form\ shapes-mobile.png);
   background-repeat: no-repeat;
   background-position: right;
   width: 375px;
   height: 779px;
-  left: 0px;
+  left: 0;
   top: 5410px;
   border-top-left-radius: 80px;
   margin-top: 113.85px;
@@ -330,7 +330,7 @@ h2 {
   height: 56px;
   left: -213px;
   top: 4734px;
-  font-family: "Poppins";
+  font-family: "Poppins" sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -342,12 +342,12 @@ h2 {
   margin-left: 70px;
 }
 
-.footer p {
+.leg p {
   width: 327px;
   height: 102px;
   left: 24px;
   top: 4802px;
-  font-family: "Poppins";
+  font-family: "Poppins" sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -358,29 +358,29 @@ h2 {
   margin-left: 20px;
 }
 
-.form {
+.contact {
   flex-direction: column;
   margin: 24px;
 }
 
-.form * {
+.contact * {
   margin: 12px 0;
   height: 48px;
-  left: 0px;
-  right: 0px;
+  left: 0;
+  right: 0;
   top: calc(50% - 48px / 2);
   width: 325px;
   margin-bottom: -30px;
   border-radius: 8px;
 }
 
-.form input {
+.contact input {
   margin-top: 20px;
   margin-bottom: 10px;
   padding: 12px;
   border: 0;
   justify-content: center;
-  font-family: "Poppins";
+  font-family: "Poppins" sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 17px;
@@ -389,13 +389,13 @@ h2 {
   box-sizing: border-box;
 }
 
-.form textarea {
+.contact textarea {
   width: 325px;
   margin-top: 10px;
   padding: 12px;
   height: 135px;
   justify-content: center;
-  font-family: "Poppins";
+  font-family: "Poppins" sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -411,14 +411,14 @@ h2 {
   left: 24px;
   top: 5317px;
   margin-top: 50px;
-  font-family: "Poppins";
+  font-family: "Poppins" sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
   line-height: 24px;
 }
 
-.form div {
+.contact div {
   width: 134px;
   height: 5px;
   left: calc(50% - 134px / 2 - 0.5px);
