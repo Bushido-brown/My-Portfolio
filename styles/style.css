@@ -255,6 +255,22 @@ h2 {
   margin-top: 114px;
 }
 
+.leg p {
+  width: 327px;
+  height: 102px;
+  left: 24px;
+  top: 4802px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  margin-bottom: 87px;
+  text-align: center;
+  color: #ebebff;
+  margin-left: 20px;
+}
+
 #about-me p {
   font-family: "Poppins", sans-serif;
   font-style: normal;
@@ -301,6 +317,17 @@ h2 {
   font-weight: 500;
   font-size: 15px;
   line-height: 20px;
+}
+
+.contact * {
+  margin: 12px 0;
+  height: 48px;
+  left: 0;
+  right: 0;
+  top: calc(50% - 48px / 2);
+  width: 325px;
+  margin-bottom: -30px;
+  border-radius: 8px;
 }
 
 .hhh li * {
@@ -404,31 +431,4 @@ h2 {
   margin-left: 90px;
   margin-top: 55px;
   margin-bottom: 8px;
-}
-
-.leg p {
-  width: 327px;
-  height: 102px;
-  left: 24px;
-  top: 4802px;
-  font-family: "Poppins", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 28px;
-  margin-bottom: 87px;
-  text-align: center;
-  color: #ebebff;
-  margin-left: 20px;
-}
-
-.contact * {
-  margin: 12px 0;
-  height: 48px;
-  left: 0;
-  right: 0;
-  top: calc(50% - 48px / 2);
-  width: 325px;
-  margin-bottom: -30px;
-  border-radius: 8px;
 }
