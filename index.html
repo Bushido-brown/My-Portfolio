@@ -159,6 +159,48 @@
           </li>
         </ul>
       </section>
+      <section class="flex leg">
+        <footer>
+          <h2 id="contact-me">Contact me</h2>
+          <p>
+            If you have an application you are interested in developing, a
+            feature that you need built or a project that needs coding. I’d love
+            to help with it
+          </p>
+          <form
+            class="contact flex"
+            action="https://formspree.io/f/xrgjaknz"
+            method="post"
+          >
+            <input
+              type="text"
+              placeholder="Name"
+              id="name"
+              required
+              name="user_name"
+              maxlength="30"
+            />
+            <input
+              type="email"
+              placeholder="email"
+              id="email"
+              required
+              name="user_email"
+            />
+            <textarea
+              name="user_message"
+              id="msg"
+              cols="30"
+              rows="10"
+              placeholder="Write your message here"
+              required
+              maxlength="500"
+            ></textarea>
+            <button id="button" type="submit">Get in touch</button>
+            <div></div>
+          </form>
+        </footer>
+      </section>
     </div>
   </body>
 </html>
